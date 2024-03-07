@@ -1,0 +1,36 @@
+.main {
+	width: min(90%);
+	margin: 0 auto;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.section {
+	border: 5px solid black;
+	width: 100%;
+	max-width: 400px;
+	padding: 3rem 2rem;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	gap: 1rem;
+}
+
+.h1 {
+	font-size: 2rem;
+	line-height: 64px;
+	height: 64px;
+	border: 2px solid red;
+	padding: 0 1rem;
+}
+
+.h2 {
+	font-size: 1.5rem;
+	line-height: 64px;
+	height: 64px;
+	border: 2px solid purple;
+	padding: 0 1rem;
+}

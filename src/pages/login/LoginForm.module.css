@@ -1,0 +1,12 @@
+.placeholder {
+	text-align: center;
+	line-height: 64px;
+	height: 64px;
+	width: 350px;
+	border: 2px solid greenyellow;
+}
+
+.button {
+	padding: 0.5rem 1rem;
+	background: white;
+}
